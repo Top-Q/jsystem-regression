@@ -9,8 +9,6 @@
 [Tt]humbs.db
 
 #Eclipse files
-.project
-.classpath
 .settings
 
 #Java and Maven
